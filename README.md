@@ -39,7 +39,7 @@
        ![](.\images\delete_ok.png)
     2. Записи с указанным ключом не существует
 
-       ![](.\images\delete_not_found.png)
+       ![](https://github.com/general0303/vk_tarantool/blob/master/images/delete_not_found.png)
     3. Логирование
 
         ![](pwd\images\logging.png)
